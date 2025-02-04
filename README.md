@@ -1,4 +1,4 @@
-# Disease Prediction with Machine Learning Models
+# Ml Diseases Prediction Model
 
 This project leverages various machine learning models to predict diseases based on input symptoms. The dataset includes numerous health indicators and the corresponding disease labels. The solution implements multiple classifiers and visualizes their performance and feature importance.
 
